@@ -1,0 +1,7 @@
+C:\Users\Aluno_2\Desktop\messagebox\messagebox\bin\Debug\messagebox.exe
+C:\Users\Aluno_2\Desktop\messagebox\messagebox\bin\Debug\messagebox.pdb
+C:\Users\Aluno_2\Desktop\messagebox\messagebox\obj\x86\Debug\messagebox.Form1.resources
+C:\Users\Aluno_2\Desktop\messagebox\messagebox\obj\x86\Debug\messagebox.Properties.Resources.resources
+C:\Users\Aluno_2\Desktop\messagebox\messagebox\obj\x86\Debug\messagebox.csproj.GenerateResource.Cache
+C:\Users\Aluno_2\Desktop\messagebox\messagebox\obj\x86\Debug\messagebox.exe
+C:\Users\Aluno_2\Desktop\messagebox\messagebox\obj\x86\Debug\messagebox.pdb
