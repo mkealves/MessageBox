@@ -91,6 +91,7 @@
             this.txbNome.Name = "txbNome";
             this.txbNome.Size = new System.Drawing.Size(258, 20);
             this.txbNome.TabIndex = 5;
+            this.txbNome.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txbNome_KeyPress);
             // 
             // txbSNome
             // 
@@ -98,6 +99,7 @@
             this.txbSNome.Name = "txbSNome";
             this.txbSNome.Size = new System.Drawing.Size(258, 20);
             this.txbSNome.TabIndex = 6;
+            this.txbSNome.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txbSNome_KeyPress);
             // 
             // txbIdade
             // 
@@ -105,6 +107,7 @@
             this.txbIdade.Name = "txbIdade";
             this.txbIdade.Size = new System.Drawing.Size(37, 20);
             this.txbIdade.TabIndex = 7;
+            this.txbIdade.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txbIdade_KeyPress);
             // 
             // txbSalario
             // 
@@ -112,6 +115,7 @@
             this.txbSalario.Name = "txbSalario";
             this.txbSalario.Size = new System.Drawing.Size(100, 20);
             this.txbSalario.TabIndex = 8;
+            this.txbSalario.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txbSalario_KeyPress);
             // 
             // Form1
             // 

@@ -5,3 +5,4 @@ C:\Users\Aluno_2\Desktop\messagebox\messagebox\obj\x86\Debug\messagebox.Properti
 C:\Users\Aluno_2\Desktop\messagebox\messagebox\obj\x86\Debug\messagebox.csproj.GenerateResource.Cache
 C:\Users\Aluno_2\Desktop\messagebox\messagebox\obj\x86\Debug\messagebox.exe
 C:\Users\Aluno_2\Desktop\messagebox\messagebox\obj\x86\Debug\messagebox.pdb
+C:\Users\Aluno_2\Desktop\messagebox\messagebox\obj\x86\Debug\messagebox.csprojResolveAssemblyReference.cache

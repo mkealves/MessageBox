@@ -41,5 +41,41 @@ namespace messagebox
             }
 
         }
+
+        private void txbSalario_KeyPress(object sender, KeyPressEventArgs e)
+            //VERIFICAÇÃO DE ENTRADA DO TECLADO, PERMITINDO APENAS ALGUMAS ENTRADAS
+        {
+            if (!Char.IsDigit(e.KeyChar) && e.KeyChar != (char)8)
+            //char.isdigit(e.keychar) ele vai permitir apenas números e e.keychar != (char)8 apenas o backspace
+            {
+                e.Handled = true;
+            }
+        }
+
+        private void txbNome_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (!Char.IsLetter(e.KeyChar) && e.KeyChar != (char)8)
+            {
+                e.Handled = true;
+            }
+        }
+
+        private void txbSNome_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (!Char.IsLetter(e.KeyChar) && e.KeyChar != (char)8)
+                //char.isletter(e.keychar) ele vai permitir apenas letras e e.keychar != (char)8 apenas o backspace
+            {
+                e.Handled = true;
+            }
+        }
+
+        private void txbIdade_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (!Char.IsDigit(e.KeyChar) && e.KeyChar != (char)8)
+            //char.isdigit(e.keychar) ele vai permitir apenas números e e.keychar != (char)8 apenas o backspace
+            {
+                e.Handled = true;
+            }
+        }
     }
 }
