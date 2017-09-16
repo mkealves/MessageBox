@@ -79,7 +79,7 @@
             // 
             this.btnVerificar.Location = new System.Drawing.Point(218, 111);
             this.btnVerificar.Name = "btnVerificar";
-            this.btnVerificar.Size = new System.Drawing.Size(75, 23);
+            this.btnVerificar.Size = new System.Drawing.Size(120, 23);
             this.btnVerificar.TabIndex = 4;
             this.btnVerificar.Text = "Verificar";
             this.btnVerificar.UseVisualStyleBackColor = true;
@@ -89,14 +89,14 @@
             // 
             this.txbNome.Location = new System.Drawing.Point(80, 13);
             this.txbNome.Name = "txbNome";
-            this.txbNome.Size = new System.Drawing.Size(213, 20);
+            this.txbNome.Size = new System.Drawing.Size(258, 20);
             this.txbNome.TabIndex = 5;
             // 
             // txbSNome
             // 
             this.txbSNome.Location = new System.Drawing.Point(80, 45);
             this.txbSNome.Name = "txbSNome";
-            this.txbSNome.Size = new System.Drawing.Size(213, 20);
+            this.txbSNome.Size = new System.Drawing.Size(258, 20);
             this.txbSNome.TabIndex = 6;
             // 
             // txbIdade
